@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\a4b218ca2ee5e0f1b3e261dc34a0a500\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\836be91851d255d5546638bd86441498\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\35f33c72bb1889d843583d091f65e849\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\520e53e560998b6d8ba79725ef590e0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7133ea512d449472125d322b8d331d1f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\cc6cd5d6c5a53b467f25570691b65692\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\04fb35b186c7f849b7731ecc38d7eff0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\5b383c46ed8b020f38b46eb0afbfeb3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\27fca18b4f3f62fd262bd131f84b2601\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\384e9ae58d25a87bf92f21c552a05c59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\66274b41a386c89424220babe34705e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\86a675bf37073449a27ec84d0c67add0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\285410e5422ee9b08436119d0e547358\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:18:5-47
+	android:versionName
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:25:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:28:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7133ea512d449472125d322b8d331d1f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7133ea512d449472125d322b8d331d1f\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:31:9-45
+activity#com.example.android.camera2video.CameraActivity
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:33:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\a4b218ca2ee5e0f1b3e261dc34a0a500\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\a4b218ca2ee5e0f1b3e261dc34a0a500\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\836be91851d255d5546638bd86441498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\836be91851d255d5546638bd86441498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\35f33c72bb1889d843583d091f65e849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\35f33c72bb1889d843583d091f65e849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\520e53e560998b6d8ba79725ef590e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\520e53e560998b6d8ba79725ef590e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7133ea512d449472125d322b8d331d1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7133ea512d449472125d322b8d331d1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\cc6cd5d6c5a53b467f25570691b65692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\cc6cd5d6c5a53b467f25570691b65692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\04fb35b186c7f849b7731ecc38d7eff0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\04fb35b186c7f849b7731ecc38d7eff0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\5b383c46ed8b020f38b46eb0afbfeb3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\5b383c46ed8b020f38b46eb0afbfeb3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\27fca18b4f3f62fd262bd131f84b2601\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\27fca18b4f3f62fd262bd131f84b2601\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\384e9ae58d25a87bf92f21c552a05c59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\384e9ae58d25a87bf92f21c552a05c59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\66274b41a386c89424220babe34705e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\66274b41a386c89424220babe34705e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\86a675bf37073449a27ec84d0c67add0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\86a675bf37073449a27ec84d0c67add0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\285410e5422ee9b08436119d0e547358\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\richard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\285410e5422ee9b08436119d0e547358\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richard\Desktop\video2\android-Camera2Video-master\Application\src\main\AndroidManifest.xml
